@@ -794,6 +794,12 @@ Quai_Thu = {
 [26614] = {name_5 = "❪5✰❫ Madeleine Light", name_6 = "❪6✰❫ Madeleine Light", IDAP = 26614},
 [26615] = {name_5 = "❪5✰❫ Madeleine Dark", name_6 = "❪6✰❫ Madeleine Dark", IDAP = 26615},
 
+[26811] = {name_5 = "❪5✰❫ Adriana WT", name_6 = "❪6✰❫ Adriana WT", IDAP = 26811},
+[26812] = {name_5 = "❪5✰❫ Lucia Fire", name_6 = "❪6✰❫ Lucia Fire", IDAP = 26812},
+[26813] = {name_5 = "❪5✰❫ Angela Wind", name_6 = "❪6✰❫ Angela Wind", IDAP = 26813},
+[26814] = {name_5 = "❪5✰❫ Ariana Light", name_6 = "❪6✰❫ Ariana Light", IDAP = 26814},
+[26815] = {name_5 = "❪5✰❫ Elena Dark", name_6 = "❪6✰❫ Elena Dark", IDAP = 26815},
+
 [10331] = {name_5 = "❪5✰❫ ᴋᴀᴄᴇʏ ᴀ²", name_6 = "❪6✰❫ ᴋᴀᴄᴇʏ ᴀ²", IDAP = 10331},
 [10332] = {name_5 = "❪5✰❫ ᴛᴀᴛᴜ ᴀ²", name_6 = "❪6✰❫ ᴛᴀᴛᴜ ᴀ²", IDAP = 10332},
 [10333] = {name_5 = "❪5✰❫ sʜᴀɴɴᴏɴ ᴀ²", name_6 = "❪6✰❫ sʜᴀɴɴᴏɴ ᴀ²", IDAP = 10333},
